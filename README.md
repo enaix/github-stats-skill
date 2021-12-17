@@ -1,5 +1,5 @@
 # <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/robot.svg" card_color="#222222" width="50" height="50" style="vertical-align:bottom"/> Github Stats
-Tells you github notifications and repos stats in j.a.r.v.i.s. style
+Tells you github notifications and repos stats in J.A.R.V.I.S. style
 
 ## About
 This skill uses github api to fetch statistics and updates since the prevoius request. it reads aloud your notifications, new stars and so on and tries to pick a phrase based on context.
